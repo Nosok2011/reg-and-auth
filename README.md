@@ -1,9 +1,0 @@
-# ATTENTION
-This sample site is Russian.
-____
-# First...
-Import the "database.sql" file into your phpMyAdmin. You do not need to create a database, it will be created automatically.
-# Then...
-Put the rest of the files onto your site.
-# As a result...
-You will get a site with real registration and authorization.
